@@ -1,12 +1,12 @@
-
 import time
 import itertools
-import requests
 import re
 import statistics
 
 sys.path.append("packages/")
 from bs4 import BeautifulSoup
+import requests
+
 
 #progress indicator
 class PROGRESS:
