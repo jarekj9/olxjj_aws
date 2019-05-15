@@ -2,6 +2,7 @@ import time
 import itertools
 import re
 import statistics
+import sys
 
 sys.path.append("packages/")
 from bs4 import BeautifulSoup
