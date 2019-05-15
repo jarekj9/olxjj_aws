@@ -10,9 +10,9 @@ soupsieve-1.9.1.dist-info/WHEEL,sha256=HX-v9-noUkyUoxyZ1PMSuS7auUxDAR4VBdoYLqD0x
 soupsieve-1.9.1.dist-info/top_level.txt,sha256=kS763j7Vu4xw3auDglwOSD9nkRF-y3GIlM5Mv8UCqTM,10
 soupsieve-1.9.1.dist-info/RECORD,,
 soupsieve-1.9.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
-soupsieve/__pycache__/__init__.cpython-35.pyc,,
-soupsieve/__pycache__/css_types.cpython-35.pyc,,
-soupsieve/__pycache__/css_match.cpython-35.pyc,,
-soupsieve/__pycache__/__meta__.cpython-35.pyc,,
 soupsieve/__pycache__/util.cpython-35.pyc,,
+soupsieve/__pycache__/__init__.cpython-35.pyc,,
+soupsieve/__pycache__/css_match.cpython-35.pyc,,
 soupsieve/__pycache__/css_parser.cpython-35.pyc,,
+soupsieve/__pycache__/css_types.cpython-35.pyc,,
+soupsieve/__pycache__/__meta__.cpython-35.pyc,,

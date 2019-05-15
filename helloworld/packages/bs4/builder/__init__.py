@@ -4,7 +4,7 @@ __license__ = "MIT"
 from collections import defaultdict
 import itertools
 import sys
-from .element import (
+from bs4.element import (
     CharsetMetaAttributeValue,
     ContentMetaAttributeValue,
     HTMLAwareEntitySubstitution,
