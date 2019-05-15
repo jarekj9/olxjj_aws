@@ -4,7 +4,7 @@ import re
 import statistics
 import sys
 
-sys.path.append("packages/")
+sys.path.append("packages")
 from bs4 import BeautifulSoup
 import requests
 
