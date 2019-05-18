@@ -14,7 +14,7 @@ Words(separated by space):</br>
 
 </br></br></br> 
 <b>Put link from olx search(list of offers with pages). It will display all prices, number of offers and average price.</b></br> </br> 
-<form method="POST" class="post-form">{% csrf_token %}
+<form action="/" method="POST" class="post-form">{% csrf_token %}
 Link:</br> 
 <input type="text" size="50" name="link" >
 <input type="hidden" name="search_type" value="prices"></br></br>
